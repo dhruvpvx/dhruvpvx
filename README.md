@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvpvx) 
 [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?logo=Medium&logoColor=white)](https://dhruvpvx.medium.com/)
 
 # 💻 Tech Stack:
