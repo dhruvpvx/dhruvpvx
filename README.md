@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhruvpvx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://activity-graph.herokuapp.com/graph?username=dhruvpvx&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=chartreuse-dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvpvx&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhruvpvx)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpvx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
